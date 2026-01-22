@@ -2,8 +2,9 @@
 # CONFIG USERBOT
 # ============================
 
-API_ID = 123456        # GANTI
-API_HASH = "ISI_HASH"  # GANTI
+API_ID = 38828754
+API_HASH = "c353a5a1c54c4715dddb3666e3be1833"  # GANTI38828754
+
 
 OPENAI_API_KEY = ""     # opsional
 
